@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Cirat</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- Menu principal -->
+    <string name="que_visitar">¿Qué visitar?</string>
+    <string name="rutas">Rutas</string>
+    <string name="restauracion">Restauración</string>
+    <string name="aventura">Aventura</string>
+    <string name="fiestas">Fiestas</string>
+    <string name="dormir">Dormir</string>
+    <string name="tiempo">El tiempo</string>
+    <string name="compartir">Compartir</string>
+
+    <!-- Home -->
+    <string name="home_descubre">Descubre Cirat y el Tormo</string>
+    <string name="home_historia"><b>Cirat</b> fue villa musulmana, aunque pudiera haber existido en la época bajoimperial romana una villa con núcleo habitado en sus proximidades. \n\rEs tras la reconquista cuando pasa a pertenecer a los dominios de Abu-Zeit hasta 1235, fecha en la que el pueblo se subleva porque este rey se había convertido al cristianismo. Un año más tarde el mismo Abu-Zeit la reconquista y al morir este vuelve a la corona, la cual en 1342 la vende a Gonzalo Ximénez de Arenós incorporándola así a la baronía de Arenós. Cuando esta se extingue vuelve a la corona hasta que en 1628 Felipe IV crea el condado de Cirat formado por esta villa, El Tormo y Pandiel y lo dona a la familia Vilarig.
+        Tras la reconquista, los musulmanes siguieron habitando Cirat, siendo estos bautizados en 1535. Tras la expulsión de los moriscos en 1609 la población sufre una notable merma de la que no se recuperará hasta finales del s. XVII, alcanzando en 1833 los 1.877 habitantes. A partir de entonces se inicia un periodo de emigración hasta que en la década de 1950 acuden a la villa numerosos trabajadores que construyen el canal Montanejos-Cirat. Cuando acaban las obras vuelve la emigración hasta quedar la población estabilizada en la actual.</string>
+    <string name="lorem_ipsum">Es un hecho establecido hace demasiado tiempo que un lector se distraerá con el contenido del texto de un sitio mientras que mira su diseño. El punto de usar Lorem Ipsum es que tiene una distribución más o menos normal de las letras, al contrario de usar textos como por ejemplo "Contenido aquí, contenido aquí". Estos textos hacen parecerlo un español que se puede leer. Muchos paquetes de autoedición y editores de páginas web usan el Lorem Ipsum como su texto por defecto, y al hacer una búsqueda de "Lorem Ipsum" va a dar por resultado muchos sitios web que usan este texto si se encuentran en estado de desarrollo. Muchas versiones han evolucionado a través de los años, algunas veces por accidente, otras veces a propósito (por ejemplo insertándole humor y cosas por el estilo).</string>
+
+    <!-- Qué visitar -->
+    <string name="desde_aqui">desde aquí</string>
+
+</resources>
+
+
